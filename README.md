@@ -1,4 +1,1 @@
-# volkanncicek.github.io
-## Personel Website
-
-**İlk** versiyon
+# volkanncicek.github.io <volkanncicek.github.io>
