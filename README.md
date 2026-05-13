@@ -1,12 +1,9 @@
-# Volkan Çiçek – Personal Website
+# volkanncicek.github.io
 
-This is the source code for my personal webpage, hosted with GitHub Pages.  
-It introduces who I am, what I work on, and how to reach me.
+Bu repo, eski kişisel sayfamın adresini korumak için sadece bir yönlendirme (redirect) stub'ı içerir. Tüm trafik [volkancicek.com](https://volkancicek.com/) adresine gider.
 
-🌍 [Visit the live website](https://volkanncicek.github.io/)
+- `index.html` — meta refresh + JS + `rel="canonical"` ile volkancicek.com'a yönlendirir
+- `404.html` — eski alt sayfa istekleri için aynı şekilde yönlendirir
+- `.github/workflows/static.yml` — stub'ı GitHub Pages'e deploy eder
 
-🧰 Built with:  
-- HTML, CSS (pure, minimal)  
-- GitHub Actions for deployment
-
-📄 [View Resume](https://volkanciicek.github.io/public/resume.pdf)
+Aktif kişisel site: [volkancicek.com](https://volkancicek.com/)
